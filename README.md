@@ -6,4 +6,4 @@ A tool needed when your AI talks with 500 emojis per paragraph.
 
 Also useful when you want to remove symbols and random things from text you copied, AUTOMATICALLY.
 
-<img width="1202" height="782" alt="image" src="https://github.com/user-attachments/assets/c6e9fd40-11c7-4ee9-9587-153f0365657f" />
+<img width="1202" height="782" alt="image" src="https://github.com/user-attachments/assets/7b4a8fdc-161f-4098-97be-b530d5f8457e" />
